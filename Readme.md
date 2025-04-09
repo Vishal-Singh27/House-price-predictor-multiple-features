@@ -68,14 +68,7 @@ This helps us visually evaluate how well the model fits the data.
 - How to build a linear regression model from scratch  
 - The role of polynomial features in modeling complex relationships  
 - Why feature scaling matters  
-- How gradient descent helps optimize model parameters  
+- How gradient descent helps optimize model parameters
+- How to do linear regression with multiple features
 
 ---
-
-## ✅ What's Next?
-
-Ideas to improve this project:
-- Add more input features (e.g., location, number of rooms)
-- Use real-world datasets
-- Introduce regularization to avoid overfitting
-- Experiment with different learning rates or optimizers
